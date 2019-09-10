@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+This is just a little thing I made following a Udemy course. It takes strings and builds little images out of them. Neat! There are a few examples included in the repository for anyone interested.
 
 ## Installation
 
@@ -15,7 +15,4 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
